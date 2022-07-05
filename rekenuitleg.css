@@ -1,0 +1,57 @@
+
+
+
+.titel {
+  font-size: 35px;
+  font-family: arial;
+  text-align: center;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(238, 193, 14);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #0c8458;
+  color: white;
+}
+
+.uitleg {
+  font-size: 20px;
+  font-family: arial;
+}
+
+.invoer {
+  font-size: 15px;
+  font-family: arial;
+}
+
+.nakijken {
+  background-color: #0c8458;
+  color: white;
+  border: none;
+  height: 20px;
+  width: 75px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.heteind {
+  font-size: 20px;
+}
